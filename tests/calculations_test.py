@@ -63,8 +63,10 @@ def test_get_nth_fibonacci_ten():
 #     # Arrange
      n = 10
 
+
 #     # Act
      result = get_nth_fibonacci(n)
+
 
 #     # Assert
      assert result == 55
